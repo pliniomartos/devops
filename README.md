@@ -8,5 +8,6 @@ setting the workflow action
 
 [![Releases](https://img.shields.io/github/release/pliniomartos/devops/all.svg?style=flat-square)](https://github.com/pliniomartos/devops/releases)
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:user/devops/main.yml)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/pliniomartos/devops/main.yml?branch=develop&style=flat-square)](https://github.com/pliniomartos/devops/actions/workflows/main.yml?query=branch:develop)
+
 
